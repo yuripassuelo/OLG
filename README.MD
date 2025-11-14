@@ -11,6 +11,14 @@ A versão relacionada a Matlab faz parte de um trabalho de disciplina e possui u
 
 A versão em Julia corresponde a uma implementação mais simples e suscinta
 
+# Clone do Repositório
+
+Caso queira copiar o repositório para um diretório local e possua o `git` basta executar o comando abaixo
+
+```
+git clone https://github.com/yuripassuelo/OLG.git [<local_directory_name>] 
+```
+
 # Referências
 
 Huggett, Mark (1996). “Wealth distribution in life-cycle economies”. Em: Journal of Monetary Economics 38.3, pp. 469–494. issn: 0304-3932. doi: https://doi.org/2610.1016/S0304-3932(96)01291-3. url: https://www.sciencedirect.com/science/article/pii/S0304393296012913.
